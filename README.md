@@ -1,2 +1,14 @@
-# Guide-to-Activate-Microsoft-Office
-Guide to Activate Microsoft Office
+Potential consumers are required to use the product key in order to activate your Office software. It will be available inside the package or will be sent to your registered Microsoft account if you have an online. However, check out the listed steps to activate the Office subscription or visit office.com/setup
+http://office-settup.com/
+
+Head straight to the Start Menu icon available on the taskbar.
+Then, tap on the Search bar and type Microsoft Office.
+Choose the best match and proceed.
+Now, click on any application like Word, Excel, PowerPoint, or Access.
+On the succeeding page, head over to the Activate icon.
+After that, hover on the Sign-in option.
+Enter your User Name or Email Address into the box.
+Then, fill Password in the text area as well.
+Press on the Enter button and continue.
+Next, wait patiently until you successfully logged-in to the account.
+Congratulations! Your Office subscription is now activated.
